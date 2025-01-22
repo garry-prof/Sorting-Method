@@ -1,0 +1,60 @@
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+C:\Users\Robby\Documents\CODE\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+C:\Users\10thfrey\Documents\Kuliah\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+D:\visual studio\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+C:\Users\GARRY\Documents\Semester 3\Data Structure\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+C:\Users\Robby\Downloads\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe.config
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.exe
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\bin\Debug\Project DasStruct.pdb
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.AssemblyReference.cache
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.FormMain.resources
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project_DasStruct.Properties.Resources.resources
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.GenerateResource.cache
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.csproj.CoreCompileInputs.cache
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.exe
+C:\Users\GARRY\Downloads\project DS\Project DasStruct (1)\Project DasStruct\Project DasStruct\Project DasStruct\Project DasStruct\obj\Debug\Project DasStruct.pdb
